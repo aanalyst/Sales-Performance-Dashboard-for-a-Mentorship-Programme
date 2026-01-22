@@ -1,1 +1,20 @@
 # Sales-Performance-Dashboard-for-a-Mentorship-Programme
+
+Overall Insights
+•	Northern Territory (NT) is the top revenue contributor at approximately $187k, about 10% higher than the next state (NSW), indicating revenue concentration in NT.
+•	Tasmania (TAS, ~ $140k) and Australian Capital Territory (ACT, ~ $151.8k) are the lowest state contributors, suggesting opportunities to grow those markets or investigate lower demand.
+•	Cancellations (103) and in-progress losses (110) are material relative to services booked (387), pointing to operational friction points before delivery that could be targeted to improve yield.
+•	Orders show clear seasonality with peaks in March (95), August (97), and November (94) and a mid-year dip in April (72), indicating higher demand in late summer and spring and a need for capacity planning aligned to these months.
+•	Month-to-month volatility in orders suggests recurring seasonal demand patterns that should inform staffing and inventory planning.
+•	The Mentoring program is the dominant revenue driver with roughly $651.6k in revenue and the highest average unit price (~$1,200), making it critical to business performance.
+•	Lower-priced services (LinkedIn profile, Networking Strategy, Interview Prep) produce much less revenue despite moderate order counts, indicating revenue concentration in high-priced offerings and potential to upsell or reprice.
+•	Mentoring has a moderate cancellation rate (9.8%) despite its high revenue and price, so small improvements in retention here could yield outsized revenue gains.
+•	Networking Strategy has the highest cancellation rate (12.0%) while generating the lowest revenue (~$81.8k), making it a prime candidate for service or process improvements to reduce churn.
+•	Resume + LinkedIn Profile generates substantial revenue (~$233.6k) but has a relatively high cancellation rate (11.4%), indicating that reducing cancellations in this offering could meaningfully increase net revenue.
+Recommendations
+•	Reduce the overall cancellation rate (10.3%) by prioritizing fixes in Networking Strategy and Resume + LinkedIn Profile (the highest cancellation services).
+•	Tighten the pre-delivery process to convert more “Service Booked” and “In Progress” into delivered outcomes (targeting the largest drop-offs before delivery).
+•	Protect and expand the Mentoring program (largest revenue and highest unit price) with retention-focused touchpoints and clear delivery milestones.
+•	Plan staffing/capacity around demand peaks (Mar, Aug, Nov) and proactively stimulate demand in softer months (e.g., Apr).
+•	De-risk state concentration by scaling acquisition in underperforming markets (TAS and ACT) while maintaining momentum in NT and NSW.
+•	Increase revenue per customer by bundling/upselling from lower-priced services (Interview Prep, LinkedIn profile, Networking Strategy) into higher-value packages.
