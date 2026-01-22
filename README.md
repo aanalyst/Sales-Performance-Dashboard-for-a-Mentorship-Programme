@@ -63,5 +63,5 @@
 | Highest Cancel Rate Service | Networking Strategy (12.0%) | Priority for improvement |
 
 
-<img width="1197" height="803" alt="Screenshot 2026-01-22 195132" src="https://github.com/user-attachments/assets/c4b73d84-9dd5-47a6-ae01-c446c922a23e" />
+
 
